@@ -1,0 +1,9 @@
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.dll
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\bin\Debug\netcoreapp2.0\Resilience.Http.pdb
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.dll
+C:\DigitalEcosystem\MAIN\src\Core\Resilience\Resilience.Http\obj\Debug\netcoreapp2.0\Resilience.Http.pdb

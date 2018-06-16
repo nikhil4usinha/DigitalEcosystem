@@ -1,0 +1,9 @@
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\bin\Debug\netstandard2.0\Ordering.Domain.deps.json
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\bin\Debug\netstandard2.0\Ordering.Domain.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\bin\Debug\netstandard2.0\Ordering.Domain.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Domain\obj\Debug\netstandard2.0\Ordering.Domain.csprojAssemblyReference.cache

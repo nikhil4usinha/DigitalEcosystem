@@ -1,0 +1,12 @@
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.deps.json
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Domain.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.AzureStorage\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AzureStorage.pdb

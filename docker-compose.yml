@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  eshopautomobile:
+    image: ${DOCKER_REGISTRY}eshopautomobile
+    build:
+      context: .
+      dockerfile: src/Web/eShopAutomobile/Dockerfile
+

@@ -1,0 +1,12 @@
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\bin\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\bin\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\bin\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.AspNetCore.HealthChecks\obj\Debug\netstandard2.0\Microsoft.AspNetCore.HealthChecks.pdb

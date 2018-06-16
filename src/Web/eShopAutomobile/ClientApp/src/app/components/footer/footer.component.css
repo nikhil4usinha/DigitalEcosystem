@@ -1,0 +1,16 @@
+.footer{
+    bottom:-153px !important;
+    display:block !important;
+}
+.footer.navbar-fixed-bottom {
+    z-index: 9999999;
+}
+.footer {
+    border-top: transparent !important;
+}
+.footer ul li a {
+    color: #fff;
+}
+.footer .copyright {
+    color: #fff !important;
+}

@@ -1,0 +1,9 @@
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\bin\Debug\netcoreapp2.0\EventBusEventGrid.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\bin\Debug\netcoreapp2.0\EventBusEventGrid.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\bin\Debug\netcoreapp2.0\EventBusEventGrid.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusEventGrid\obj\Debug\netcoreapp2.0\EventBusEventGrid.pdb

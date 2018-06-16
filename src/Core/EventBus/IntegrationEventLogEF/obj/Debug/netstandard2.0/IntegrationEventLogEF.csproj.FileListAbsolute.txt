@@ -1,0 +1,14 @@
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\IntegrationEventLogEF.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBusServiceBus.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.0\EventBus.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.0\IntegrationEventLogEF.pdb

@@ -1,0 +1,12 @@
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks.SqlServer\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.SqlServer.pdb

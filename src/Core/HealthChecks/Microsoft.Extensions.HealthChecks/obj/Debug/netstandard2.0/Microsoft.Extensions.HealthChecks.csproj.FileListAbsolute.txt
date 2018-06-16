@@ -1,0 +1,9 @@
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.dll
+C:\DigitalEcosystem\MAIN\src\Core\HealthChecks\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard2.0\Microsoft.Extensions.HealthChecks.pdb

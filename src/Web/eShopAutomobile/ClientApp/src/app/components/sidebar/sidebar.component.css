@@ -1,0 +1,31 @@
+
+.bg-sidebar-grey1{
+    background: #353333;
+    
+}
+.text-yellow{
+    color:#ffe600 !important;
+}
+.bg-sidebar-grey2{
+    background: #2b2b2b;
+    color: #ffffff;
+}
+.text-bold{
+    font-weight:700 !important;
+}
+.ts-25{
+    font-size:25px !important;
+}
+.sidebar-text{
+    color: #ffffff !important;
+    font-size:17px !important;
+}
+.text-transform{
+    text-transform: initial !important;
+}
+.text-red{
+    color:#f04c3e;
+}
+.sidebar-wrapper {
+    height: calc(100vh - 68px) !important;
+}

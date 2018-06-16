@@ -1,0 +1,108 @@
+/* ------------------------------------------------------------------------------
+*
+*  # Badges component
+*
+*  Overrides for badges bootstrap component
+*
+*  Version: 1.2
+*  Latest update: Mar 10, 2016
+*
+* ---------------------------------------------------------------------------- */
+
+
+// Base
+// -------------------------
+
+.badge {
+    padding: 2px 6px 1px 6px;
+    font-size: 10px;
+    letter-spacing: 0.1px;
+    vertical-align: baseline;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 100px;
+
+    // Quick fix for badges in buttons
+    .btn & {
+        top: 0;
+    }
+    .btn-xs & {
+        padding: 2px 6px 1px 6px;
+    }
+
+    // Account for badges in navs
+    .list-group-item.active > &,
+    .nav-pills > .active > a > &,
+    .nav-tabs-solid > .active > a > &,
+    .nav-tabs[class*=bg-] > li > a > & {
+        color: @badge-active-color;
+        background-color: @badge-active-bg;
+        border-color: @badge-active-bg;
+    }  
+    .nav-pills > li > a > & {
+        margin-left: 0;
+
+        &.position-right {
+            margin-left: @element-horizontal-spacing;
+        }
+    }
+}
+
+
+// Contextual variations
+// -------------------------
+
+// Default
+.badge-ey-default {
+    background-color: @label-ey-default-bg;
+    border-color: @label-ey-default-bg;
+}
+
+// Primary
+.badge-ey-primary {
+    background-color: @label-ey-primary-bg;
+    border-color: @label-ey-primary-bg;
+}
+
+// Success
+.badge-ey-success {
+    background-color: @label-ey-success-bg;
+    border-color: @label-ey-success-bg;
+}
+
+// Info
+.badge-ey-info {
+    background-color: @label-ey-info-bg;
+    border-color: @label-ey-info-bg;
+}
+
+// Warning
+.badge-ey-warning {
+    background-color: @label-ey-warning-bg;
+    border-color: @label-ey-warning-bg;
+}
+
+// Danger
+.badge-ey-danger {
+    background-color: @label-ey-danger-bg;
+    border-color: @label-ey-danger-bg;
+}
+
+
+// Flat labels style
+// -------------------------
+
+.badge-flat {
+    background-color: transparent;
+    border-width: 2px;
+    padding: 1px 5px 0 5px;
+
+    // Remove background color and shadow on hover
+    &[href] {
+        &:hover,
+        &:focus {
+            background-color: transparent;
+            .box-shadow(none);
+        }
+    }
+}

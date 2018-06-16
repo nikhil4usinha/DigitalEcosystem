@@ -1,0 +1,16 @@
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\Ordering.SignalrHub.deps.json
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\Ordering.SignalrHub.runtimeconfig.json
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\Ordering.SignalrHub.runtimeconfig.dev.json
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\Ordering.SignalrHub.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\Ordering.SignalrHub.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\EventBus.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\EventBusServiceBus.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\EventBusServiceBus.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\bin\Debug\netcoreapp2.0\EventBus.pdb
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.dll
+C:\DigitalEcosystem\MAIN\src\Services\Ordering\Ordering.SignalrHub\obj\Debug\netcoreapp2.0\Ordering.SignalrHub.pdb

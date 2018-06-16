@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  eshopautomobile:
+    image: eshopautomobile:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
+    volumes:
+      - C:\DigitalEcosystem\MAIN\src\Web\eShopAutomobile:/app
+      - C:\Users\nikhil.sinha\vsdbg\vs2017u5:/remote_debugger:ro
+      - C:\Users\nikhil.sinha\.nuget\packages\:/root/.nuget/packages:ro
+      - C:\Program Files (x86)\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages --additionalProbingPath /root/.nuget/fallbackpackages  bin/Debug/netcoreapp2.0/eShopAutomobile.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""

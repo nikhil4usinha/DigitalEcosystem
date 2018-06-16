@@ -1,0 +1,12 @@
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.deps.json
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBusServiceBus.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\bin\Debug\netstandard2.0\EventBus.pdb
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csprojAssemblyReference.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csproj.CoreCompileInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfoInputs.cache
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.AssemblyInfo.cs
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.csproj.CopyComplete
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.dll
+C:\DigitalEcosystem\MAIN\src\Core\EventBus\EventBusServiceBus\obj\Debug\netstandard2.0\EventBusServiceBus.pdb
